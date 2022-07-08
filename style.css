@@ -357,7 +357,8 @@ body{
 
 ul.slideruno{
   position: relative;
-  width: 1200px;
+  align-items: center;
+  width: 100%;
   height: 500px;
 }
 
